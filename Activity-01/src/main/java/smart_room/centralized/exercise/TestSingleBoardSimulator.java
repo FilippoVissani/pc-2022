@@ -1,8 +1,9 @@
-package smart_room.centralized;
+package smart_room.centralized.exercise;
 
 import smart_room.Event;
+import smart_room.centralized.SinglelBoardSimulator;
 
-public class TestSingleBoardSimulatorExercise {
+public class TestSingleBoardSimulator {
 
 	public static void main(String[] args) throws Exception {
 
